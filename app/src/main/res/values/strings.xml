@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">REBA</string>
+    <string name="title_activity_onboarding_trytwo">onboardingTrytwo</string>
+    <string name="notification">New Notification</string>
+    <string name="notification_channel_description">This is a sample notification channel for demonstration purpose.</string>
+</resources>

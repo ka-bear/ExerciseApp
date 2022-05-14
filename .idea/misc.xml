@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/abtme.xml" value="0.4" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/card_layout.xml" value="0.152" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/first_page.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/fragment_second.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/fragment_third.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/goalsmaybe.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/homepage.xml" value="0.4" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/login_page.xml" value="0.4" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/onboard.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/resetpwd_page.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/setting.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/signup_page.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/layout/splash.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/mlkit-pose-detection-kotlin-main/mlkit-pose-detection-kotlin-main/app/src/main/res/menu/menue.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
